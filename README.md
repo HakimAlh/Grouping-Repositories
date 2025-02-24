@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d510fabd-563d-4782-aaa1-c2dd95ac3efa)# Grouping-Repositories
+# How to Group / put your respositories in grouped or folder for organizing and convenience.
+
 Creative way to group your repositories. Leaving a nice neat organized folders where you can sort your repositories.
 
 We are going to be using a feature that Github already has called List. While Github does not have features to 
